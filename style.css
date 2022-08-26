@@ -1,0 +1,20 @@
+body{
+	background:violet
+}
+h1 {
+    color: white;
+    margin: 0% 44%;
+    position: fixed;
+}
+#img2 {
+	color:blueviolet;
+	background-color:white;
+	border: 2px solid white;
+	border-radius:15px;
+	left:0px;
+    top:0px;
+    height:60px;
+    position: relative;
+  transition: 0.5s;
+  margin: 10% 46%;
+}
